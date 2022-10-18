@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @velisanri
+- I am a 2nd year computer engineering student at Karamanoğlu Mehmet Bey University. I am actively learning C and C++.
