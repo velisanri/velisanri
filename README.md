@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @velisanri
-- I am a 3re year computer engineering student at Karamanoğlu Mehmet Bey University. I am actively learning C and C++.
+- I am a 3rd year computer engineering student at Karamanoğlu Mehmet Bey University. I am actively learning C and C++.
