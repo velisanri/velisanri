@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @velisanri
-- I am a 3rd year computer engineering student at Karamanoğlu Mehmet Bey University. I am actively learning C and C++.
+- I am a 3rd year computer engineering student at Karamanoğlu Mehmet Bey University.
+- Now I am improving myself in the field of backend with Javascript,MySQL(MongoDB),NodeJs,ExpressJs
+- Also, I know C and C++ at an average level.
