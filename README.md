@@ -1,5 +1,8 @@
 # 👋 Hi, I’m @velisanri
 
-I am a 4th-year Computer Engineering student at Karamanoğlu Mehmet Bey University, focusing on backend development. Currently, I am enhancing my skills in backend technologies, particularly with C#, DevExpress, and MySQL.
+I am a Computer Engineering graduate from Karamanoğlu Mehmetbey University, passionate about backend development. I specialize in C#, .NET Core, ASP.NET MVC, DevExpress, MySQL, and also have front-end experience with HTML and CSS. 
 
-Additionally, I have a solid foundation in C, C++, Node.js, MongoDB, JavaScript, and Express.js at an intermediate level.
+I’ve built hands-on skills through various academic projects and internships and have a solid foundation in C, C++, JavaScript, Node.js, Express.js, and MongoDB. 
+
+I take pride in writing clean, maintainable code and thrive in collaborative, solution-oriented environments. With a strong drive for continuous learning, I aim to contribute to impactful software projects and deliver real value through technology.
+
